@@ -1,0 +1,10 @@
+c:\users\usama\documents\visual studio 2012\Projects\PictureBox\PictureBox\bin\Debug\PictureBox.exe.config
+c:\users\usama\documents\visual studio 2012\Projects\PictureBox\PictureBox\bin\Debug\PictureBox.exe
+c:\users\usama\documents\visual studio 2012\Projects\PictureBox\PictureBox\bin\Debug\PictureBox.pdb
+c:\users\usama\documents\visual studio 2012\Projects\PictureBox\PictureBox\obj\Debug\PictureBox.csprojResolveAssemblyReference.cache
+c:\users\usama\documents\visual studio 2012\Projects\PictureBox\PictureBox\obj\Debug\PictureBox.Form1.resources
+c:\users\usama\documents\visual studio 2012\Projects\PictureBox\PictureBox\obj\Debug\PictureBox.Properties.Resources.resources
+c:\users\usama\documents\visual studio 2012\Projects\PictureBox\PictureBox\obj\Debug\PictureBox.Resource1.resources
+c:\users\usama\documents\visual studio 2012\Projects\PictureBox\PictureBox\obj\Debug\PictureBox.csproj.GenerateResource.Cache
+c:\users\usama\documents\visual studio 2012\Projects\PictureBox\PictureBox\obj\Debug\PictureBox.exe
+c:\users\usama\documents\visual studio 2012\Projects\PictureBox\PictureBox\obj\Debug\PictureBox.pdb
